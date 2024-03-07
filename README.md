@@ -1,4 +1,4 @@
-# findupworks ESLint config
+# FindUP ESLint config
 
 ## Whats included?
 
